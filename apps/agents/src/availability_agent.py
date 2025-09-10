@@ -1,6 +1,6 @@
 from typing import Dict, List, TypedDict
 from langgraph.graph import StateGraph, START, END
-from loguru import logger
+from loguru import logger # type: ignore
 import json
 
 # Define the state that flows through our workflow
