@@ -4,4 +4,7 @@ pydantic>=2.6
 python-dotenv>=1.0
 loguru>=0.7
 httpx>=0.27
-
+google-generativeai
+supabase
+twilio
+google
